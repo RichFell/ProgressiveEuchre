@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>45C89615-F7D3-4908-8034-4D95DB8A4D90</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ProgressiveEuchre</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AC2DED25-7152-411A-B31C-0DBC768BFB07</key>
+		<string>https://github.com/RichFell/Adventure.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ProgressiveEuchre/ProgressiveEuchre.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AC2DED25-7152-411A-B31C-0DBC768BFB07</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/RichFell/Adventure.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AC2DED25-7152-411A-B31C-0DBC768BFB07</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AC2DED25-7152-411A-B31C-0DBC768BFB07</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Adventure</string>
+		</dict>
+	</array>
+</dict>
+</plist>
